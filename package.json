@@ -1,0 +1,19 @@
+{
+  "name": "clear-log",
+  "version": "1.0.0",
+  "description": "This is a simple code for clearing all the log files in the dir periodically ",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/CLEAR-LOG.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/CLEAR-LOG/issues"
+  },
+  "homepage": "https://github.com/alestor123/CLEAR-LOG#readme"
+}
